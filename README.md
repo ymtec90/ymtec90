@@ -1,7 +1,7 @@
-# Student of Data Science and Python Development
+# Student of Data Science
 
-- Student of Data Science, using mostly Python and little bit of R.
-- Trying to start a side carrer as a developer.
+- Student of Data Science, using mostly Python.
+- Trying to start a side carrer as a Data Analyst.
 
 ### If you want to reach me you can find me on Discord (ym_silva04)
 
