@@ -1,7 +1,14 @@
-# Student of Data Science
+# Python Developer
 
-- Student of Data Science, using mostly Python.
-- Trying to start a side carrer as a Data Analyst.
+- Entry level Data Science libraries (numpy, pandas, scipy, matplotlib, seaborn, scikit-learn, nltk). 
+- Design basic web applications with the Flask framework.
+- Desktop apps using the "infamous" tkinter.
+- Web scrapping tools (BeautifulSoup and Scapy).
+
+# Data Analist
+
+- Excel and VBA
+- Power BI
 
 ### If you want to reach me you can find me on Discord (ym_silva04)
 
