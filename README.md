@@ -1,16 +1,13 @@
-# Python Developer
+# Sobre mim:
 
-- Entry level Data Science libraries (numpy, pandas, scipy, matplotlib, seaborn, scikit-learn, nltk). 
-- Design basic web applications with the Flask framework.
-- Desktop apps using the "infamous" tkinter.
-- Web scrapping tools (BeautifulSoup and Scapy).
+- Um cara aleatorio fazendo coisas aleatorias. 
 
-# Data Analist
+# About me:
 
-- Excel and VBA
-- Power BI
+- Random guy doing random stuff
 
-### If you want to reach me you can find me on Discord (ym_silva04)
+## Contato / Contact Info:
+ymfstec@gmail.com
 
 <!---
 ymtec90/ymtec90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
