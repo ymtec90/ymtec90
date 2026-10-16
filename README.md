@@ -11,11 +11,11 @@ Sou um profissional movido pela curiosidade técnica, conectando o universo da M
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens & Backend:** Python, FastAPI
+* **Linguagens & Backend:** Python, Flask,  Django (e aprendendo PHP)
 * **Dados & IA:** Análise Estatística, RAG (Retrieval-Augmented Generation), LangChain, Integração de Modelos de IA Locais
 * **Sistema & Infraestrutura:** Linux (Arch, Debian, WSL)
 * **Editor de Código:** Vim (o clássico, configurado sob medida 🚀)
-* **Cultura Maker:** PrusaSlicer, Modelagem 3D, Projetos com Hardware
+* **Cultura Maker:** Impressão 3D, Modelagem 3D com FreeCAD, Projetos com Hardware
 
 ## 📈 O que estou estudando atualmente
 
